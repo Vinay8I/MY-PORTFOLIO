@@ -15,15 +15,6 @@ export const achievementData = {
         },
         {
             id : 2,
-            title : 'Automation Anywhere Certified Essentials RPA Professional',
-            details : 'validates your knowledge of RPA fundamentals and your ability to use the Automation Anywhere platform to automate business processes.',
-            date : '2024',
-            field : 'Automation',
-            url:"https://certificates.automationanywhere.com/e4f618c3-9a76-4030-a4eb-f5af17dc15b8#gs.fgy575",
-            image : 'https://raw.githubusercontent.com/Vinay8I/My-Portfolio/refs/heads/main/images/rpa.png'
-        },
-        {
-            id : 3,
             title : 'GitHub Foundations',
             details : 'The GitHub Foundations Certification validates foundational knowledge of version control, repository management, and collaboration using GitHub.',
             date : '2024',
@@ -32,27 +23,14 @@ export const achievementData = {
             image : 'https://img.icons8.com/?size=100&id=12599&format=png&color=000000'
         },
         {
-            id : 4,
+            id : 3,
             title : 'Oracle Cloud Infrastructure',
             details : 'Oracle Cloud Infrastructure is a cloud computing platform that provides a wide range of services, including compute, storage, networking, and databases.',
             date : '2024',
             field : 'Cloud',
             url :"https://catalog-education.oracle.com/pls/certview/sharebadge?id=916F7E4A5E68C4E7CC485DF7A220C8F6BB905B3A2C7A7D28E0C3B4CF12C909DA",
             image : 'https://img.icons8.com/?size=100&id=39913&format=png&color=000000'
-        },
-        {
-            id : 4,
-            title : 'Salesforce Certified Ai Associate',
-            details : 'Salesforce Certified AI Associate validates your understanding of fundamental AI concepts and your ability to apply AI solutions within the Salesforce platform to enhance business processes',
-            date : '2024',
-            field : 'AI Associate',
-            url :"https://raw.githubusercontent.com/Vinay8I/My-Portfolio/refs/heads/main/images/salesforce.jpg",
-            image : 'https://raw.githubusercontent.com/Vinay8I/My-Portfolio/refs/heads/main/images/Salesforce_Logo-removebg-preview.png'
-        },
-        
-        
-            
-        
+        },   
     ]
 }
 
